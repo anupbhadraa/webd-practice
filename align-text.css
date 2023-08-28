@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 350px;
+    background-color: brown;
+}
+
+.right {
+    text-align: right;
+}
+
+.centered
+
+{
+    text-align: center;
+}
+
+.justified {
+    text-align: justify;
+}
